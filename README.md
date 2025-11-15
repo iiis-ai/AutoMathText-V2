@@ -29,7 +29,7 @@ Our dataset combines **50+ premium data sources** with advanced processing techn
 | **💻 RefineCode** | 279.4B | 11.4% | GitHub repositories (Academic Use Only) |
 | **⭐ Nemotron CC Medium-High** | 254.5B | 10.3% | Medium-high quality CommonCrawl data |
 | **📚 FineWeb Edu** | 117.4B | 4.8% | Educational web content |
-| **🌏 Chinese** | 112.18B | 4.6% | Chinese general content |
+| **🌏 FineWeb Edu Chinese** | 112.18B | 4.6% | Educational Chinese web content |
 | **🧠 Reasoning QA** | 86.2B | 3.5% | Instruction-following and complex reasoning tasks |
 | **🔢 Math Web** | 68.3B | 2.8% | Mathematics and scientific content |
 | **📊 MegaMath** | 28.5B | 1.2% | Specialized mathematical collections |
